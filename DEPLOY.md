@@ -38,7 +38,8 @@ Files added
 
 Production
 
-- Live preview: https://june-task-manager-fs0nyf89s-techkrutids-9345s-projects.vercel.app
+- Live preview: https://june-task-manager-fs0nyf89s-techrutids-9345s-projects.vercel.app
+- Production (aliased): https://june-task-manager.vercel.app
 
 Custom domain (example: `junetasks.com`)
 
